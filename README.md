@@ -1,5 +1,5 @@
-[![MasterHead](https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif)](https://rishavchanda.io)
-[![MasterHead](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)](https://rishavchanda.io)
+![MasterHead](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)
+
 <h1 align="center">Hi 👋, I'm Raditya Dito</h1>
 <h3 align="center">Software Engineer | Computer Engineering Student</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
