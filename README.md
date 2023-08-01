@@ -15,8 +15,8 @@ I'm Raditya Dito, a passionate Computer Engineering student, and ambitious Softw
 👯 Looking to collaborate on: Exciting software projects and open-source initiatives.<br>
 🤝 Seeking help with: Enhancing my knowledge in data structures and algorithms.<br>
 🌱 Currently learning: Diving deeper into full-stack web application development.<br>
-💬 Ask me about: My journey in Computer Engineering, coding challenges, and personal projects.<br>
-⚡ Fun fact: !<br>
+💬 Ask me about: <br>
+⚡ Fun fact: <br>
 
 
 ## 🌐 Socials:
