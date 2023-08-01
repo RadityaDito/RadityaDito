@@ -10,7 +10,7 @@
 
 - 👯 I want to collaborate on **Exciting software projects involving cutting-edge technologies and innovative solutions.**
 
-- 📫 How to reach me **ditoraditya04@gmail.com**
+- 📫 How to reach me 
 
 
 
