@@ -9,10 +9,10 @@
 I'm Raditya Dito, a passionate Computer Engineering student, and ambitious Software Engineer who loves exploring new technologies and finding creative solutions to complex problems through coding. I have successfully led the development of multiple web applications, including a project for the course final project and web applications for external clients. These hands-on projects have sharpened my skills in project management, teamwork, collaboration, and creative problem-solving. Ask me about my journey into tech, the projects I've worked on, or how to ace coding interviews. Let's connect and geek out about all things tech!"
 
 
-🔭 Currently working on: **Exercise FTUI**<br>
+🔭 Currently working on: **Traveloka**<br>
 👯 Looking to collaborate on: Exciting software projects and open-source initiatives.<br>
 🤝 Seeking help with: Enhancing my knowledge in data structures and algorithms.<br>
-🌱 Currently learning: Diving deeper into full-stack web application development.<br>
+🌱 Currently learning: Diving deeper into full-stack web application development and native android mobile development.<br>
 💬 Ask me about: <br>
 ⚡ Fun fact: <br>
 
